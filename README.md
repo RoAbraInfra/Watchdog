@@ -58,4 +58,4 @@ In order to sustain and support the ongoing development and maintenance of our p
 
 # Contact
 
-you can hear about new features and plans on [X](https://twitter.com/RoAbraTelecom) and if you had any question feel free to ask on [Telegram](t.me/RoAbraDev)
+you can hear about new features and plans on [X](https://twitter.com/RoAbraTelecom) and if you had any question feel free to ask on [Telegram](https://t.me/RoAbraDev)
